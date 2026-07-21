@@ -11,7 +11,7 @@ Most of my projects focus on turning analyst workflows into desktop tools—maki
 * 🛠️ PowerShell • Microsoft 365 • WinForms • APIs • Threat Hunting • OSINT
 * 🌱 Exploring how AI can help security analysts work faster
 - 📝 I write about DFIR and cybersecurity on [my blog](https://maciejklim.github.io).
-- 
+
 ## Featured Projects
 | Project                        | Description                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
