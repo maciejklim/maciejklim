@@ -10,8 +10,6 @@ Most of my projects focus on turning analyst workflows into desktop tools—maki
 - 🌱 Currently exploring how AI can augment—not replace—security analysts.
 - 📝 I write about DFIR and cybersecurity on [my blog](https://maciejklim.github.io).
 
----
-
 ## Featured Projects
 
 | Project | Description |
@@ -20,18 +18,6 @@ Most of my projects focus on turning analyst workflows into desktop tools—maki
 | 🔎 **Huntress SIEM Explorer** | Desktop investigation interface for searching Huntress SIEM events |
 | 📧 **M365 Compliance & Purge GUI** | GUI for Microsoft 365 Compliance Search and Purge operations that simplifies incident response and phishing remediation. |
 
----
-
 ## Philosophy
 
-I enjoy building software that makes security teams faster.
-
-Rather than replacing existing tools, I build interfaces that connect them together, automate repetitive work, and surface the information analysts actually need.
-
-Many of these projects combine PowerShell, Microsoft Graph, REST APIs, and AI to create practical utilities for day-to-day security operations.
-
----
-
-## Blog
-
-[https://maciejklim.github.io](https://maciejklim.github.io).)
+I enjoy building software that makes security teams faster. Rather than replacing existing tools, I build interfaces that connect them together, automate repetitive work, and surface the information analysts actually need. Many of these projects combine PowerShell, Microsoft Graph, REST APIs, and AI to create practical utilities for day-to-day security operations.
