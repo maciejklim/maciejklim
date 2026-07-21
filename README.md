@@ -11,7 +11,7 @@ I build Windows desktop applications in PowerShell that streamline security opti
 ## Featured Projects
 | Project                        | Description                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🕵️ IOC Workbench*         | Query VirusTotal, AlienVault OTX, AbuseIPDB, and other threat intelligence sources from a single interface, producing analyst-ready investigation summaries. |
+| 🕵️ IOC Workbench        | Query VirusTotal, AlienVault OTX, AbuseIPDB, and other threat intelligence sources from a single interface, producing analyst-ready investigation summaries. |
 | 🔎 Huntress SIEM Explorer  | Windows desktop client for searching Huntress SIEM data, executing queries, and investigating events without living in the browser.                          |
 | 📧 M365 Compliance & Purge | Desktop frontend for Microsoft 365 Compliance Search and Hard Purge operations, built to speed phishing response.  |   
 
