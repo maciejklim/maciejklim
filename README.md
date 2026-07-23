@@ -1,15 +1,8 @@
 # Hi there 👋
 
-I build small Windows automations that make security work less annoying.
+I build tools for security teams.
 
-Most of my projects exist because I got tired of doing something manually more than once. 
-
-## Featured Projects
-| Project | Description |
-|----------|-------------|
-| 🕵️ IOC Workbench | Investigate indicators across multiple threat intelligence sources from a single interface. |
-<!-- | 🔎 Huntress SIEM Explorer | Desktop client for searching and investigating Huntress SIEM data. | -->
-<!-- | 📧 M365 Compliance & Purge | PowerShell frontend that accelerates Microsoft 365 phishing response workflows. | -->
+A few are public.
 
 ## Philosophy
 
