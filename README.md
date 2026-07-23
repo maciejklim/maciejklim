@@ -1,20 +1,19 @@
 # Hi there 👋
 
-I build Windows desktop applications in PowerShell that streamline security options. My projects focus on threat investigation, incident response, and vulnerability remediation.
+I build small Windows automations that make security work less annoying.
 
-* 🔭 Building desktop tools for security operations and incident response
-* ⚡ If a workflow feels repetitive, I'll probably automate it
-* 🛠️ PowerShell • Microsoft 365 • WinForms • APIs • Threat Hunting • OSINT
-* 🌱 Exploring how AI can help security analysts work faster
-* 📝 I write about DFIR and cybersecurity on [my blog](https://maciejklim.github.io).
+Most of my projects exist because I got tired of doing something manually more than once. 
+
+
+I write about DFIR and cybersecurity on [my blog](https://maciejklim.github.io).
 
 ## Featured Projects
-| Project                        | Description                                                                                                                                                  |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🕵️ IOC Workbench        | Query VirusTotal, AlienVault OTX, AbuseIPDB, and other threat intelligence sources from a single interface, producing analyst-ready investigation summaries. |
-| 🔎 Huntress SIEM Explorer  | Windows desktop client for searching Huntress SIEM data, executing queries, and investigating events without living in the browser.                          |
-| 📧 M365 Compliance & Purge | Desktop frontend for Microsoft 365 Compliance Search and Hard Purge operations, built to speed phishing response.  |   
+| Project | Description |
+|----------|-------------|
+| 🕵️ IOC Workbench | Investigate indicators across multiple threat intelligence sources from a single interface. |
+| 🔎 Huntress SIEM Explorer | Desktop client for searching and investigating Huntress SIEM data. |
+| 📧 M365 Compliance & Purge | PowerShell frontend that accelerates Microsoft 365 phishing response workflows. |
 
 ## Philosophy
 
-I enjoy building software that removes friction from security operations. Rather than replacing existing platforms, I connect them together.
+Good tools remove friction. I am less interested in replacing platforms and more interested in connecting them together.
