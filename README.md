@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I build tools for security teams.
-
-A few are public.
+I build tools for security teams. A few are public. Occasionally I write things down on my [blog](https://maciejklim.github.io/).
 
 ## Philosophy
 
