@@ -16,8 +16,4 @@ My goal is not to replace existing platforms. Good tools fill gaps, connect syst
 
 ## Philosophy
 
-Good tools remove friction.
-
-I am less interested in building another dashboard and more interested in helping people answer questions faster.
-
 If a technician can save thirty minutes of investigation time, if an analyst can avoid ten clicks, or if an administrator can automate a repetitive task, the project is probably worth building.
