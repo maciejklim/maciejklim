@@ -1,8 +1,10 @@
 # Hi there 👋
 
-I build tools for security teams, system administrators, and MSPs. Some are public.
+I build tools for security teams, system administrators, and MSPs.
 
-Most of my projects exist because I got tired of performing the same task more than twice. A few are public. Occasionally I write things down on my [blog](https://maciejklim.github.io/).
+Most of my projects exist because I got tired of performing the same task more than twice. A few are public.
+
+Occasionally I write things down on my [blog](https://maciejklim.github.io/).
 
 ## What I Build
 
