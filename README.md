@@ -21,14 +21,3 @@ Good tools remove friction.
 I am less interested in building another dashboard and more interested in helping people answer questions faster.
 
 If a technician can save thirty minutes of investigation time, if an analyst can avoid ten clicks, or if an administrator can automate a repetitive task, the project is probably worth building.
-
-## Current Interests
-
-Lately I've been spending time on:
-
-- Security automation
-- Digital forensics
-- Incident response
-- Microsoft 365 security
-- Identity and access management
-- PowerShell development
